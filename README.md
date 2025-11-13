@@ -1,5 +1,9 @@
 # quick_tutorial
 
+**Nama      : Martino Kelvin**
+**NIM       : 123140165**
+**Kelas     : PAW RA**
+
 # 📚 Pyramid Full Tutorial — Reference Index
 
 Repository ini berisi hasil pengerjaan **Tutorial Pyramid Step 01–19**, lengkap dengan kode, struktur package, testing, templating, routing, sessions, logging, AJAX, forms, hingga database SQLAlchemy.
@@ -7,7 +11,6 @@ Repository ini berisi hasil pengerjaan **Tutorial Pyramid Step 01–19**, lengka
 Setiap folder tutorial memiliki:
 
 - **Kode utama**
-- **Folder project**
 - **README.md analisis penjelasan**
 
 ---
